@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\bin\Debug\Admin.exe.config
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\bin\Debug\Admin.exe
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\bin\Debug\Admin.pdb
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.admenu.resources
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.exe
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.pdb
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.admenuPage.resources
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.adpenjualan.resources
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.adpenjualanReceipt.resources
+C:\Users\ASUS\Desktop\BAP UTS\UTS-BUSINESS-APPLICATION-PROGRAMMING\Admin\obj\Debug\Admin.csproj.ResolveComReference.cache
