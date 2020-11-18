@@ -16,8 +16,8 @@ namespace UTS_BUSINESS_APPLICATION_PROGRAMMING
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new cslogin());
-            Application.Run(new csmenu(101,"Hartanto"));
+            Application.Run(new cslogin());
+            //Application.Run(new csmenu(101,"Hartanto"));
         }
     }
 }
